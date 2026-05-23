@@ -1,6 +1,6 @@
 # Tickle Trunk Website
 
-A Vite + React website for the Tickle Trunk haptic communication toolkit.
+A React website for the Tickle Trunk, hardware-only toolkit for rapid, playful exploration of diverse physical modalities.
 
 ## Run locally
 
