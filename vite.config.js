@@ -1,9 +1,10 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
-import path from 'node:path'
+import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Tickle_Trunk/',
   plugins: [react()],
   resolve: {
     alias: {
