@@ -6,7 +6,7 @@ export default function AboutSection() {
           {/* Image */}
           <div>
             <img
-              src={`${import.meta.env.BASE_URL}assets/tickle_trunk_02.png`}
+              src="/Tickle_Trunk/assets/tickle_trunk_02.png"
               alt="Tickle Trunk in use"
               className="rounded-2xl shadow-lg w-full object-cover"
             />
