@@ -33,7 +33,7 @@ export default function HeroSection() {
           {/* Image */}
           <div className="rounded-2xl overflow-hidden shadow-xl border border-gray-100">
             <img
-              src={`${import.meta.env.BASE_URL}assets/tickle_trunk_01.png`}
+              src="/Tickle_Trunk/assets/tickle_trunk_01.png"
               alt="Tickle Trunk toolkit"
               className="w-full h-auto object-cover"
             />
